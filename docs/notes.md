@@ -7,3 +7,4 @@ Notes and usage details for cuetorials.com.
 - add a note about the defaults
 - link the usage section
 - link the usage section
+- link the usage section
