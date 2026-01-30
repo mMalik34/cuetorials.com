@@ -49,3 +49,4 @@ Learn you some CUE for a great good!
 # clarify the control flow
 # avoid re-reading the config on every call
 # keep defaults in sync with the manifest
+# avoid re-reading the config on every call
